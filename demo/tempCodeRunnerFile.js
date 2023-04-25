@@ -1,0 +1,1 @@
+fs.renameSync("read.txt","readwrite.txt");
